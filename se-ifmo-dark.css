@@ -1,0 +1,80 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+span{
+    color: #EEE !important;
+}
+
+nav{
+        background: #333 !important;
+}
+
+td{
+    color:white !important;
+    border-top: #222 !important;
+    border-bottom: #555 !important;
+
+}
+
+
+tbody a{
+    color: #38dbff !important;
+}
+
+tbody font{
+    color: #ff7373 !important;
+}
+
+.columns-1{
+    background: #222 !important;
+}
+
+#breadcrumbs{
+        border-radius: 0
+
+}
+
+.breadcrumb{
+    background: #333 !important;
+}
+
+.breadcrumb a{
+    color: #fff !important;
+}
+
+#heading{
+    background: #333 !important;
+}
+
+.portlet-layout{
+    color: #fff !important;
+}
+
+input{
+    background: #CCC !important;
+}
+
+.portlet-layout h3{
+    color: #ff4747 !important;
+}
+
+.portlet-layout h2{
+    color: #0a82ff !important;
+}
+
+.portlet-layout a{
+    color: #38dbff !important;
+}
+
+#banner{
+    background: #333 !important;
+}
+
+.site-title{
+    background: #333 !important;
+}
+
+.quote{
+    background: #555 !important;
+    color: #EEE  !important;
+}
+
