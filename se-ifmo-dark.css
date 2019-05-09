@@ -1,6 +1,9 @@
 /*	se.ifmo.ru dark theme
 By Dima Glushkov (https://github.com/allacee)
-(There is another .css file for 'System-software' page or it's about to be done)*/
+(There is another .css file for 'System-software' page or it's about to be done)
+regex to set this .css to correct url: .*se.ifmo.ru\/(?!~).*
+*/
+
 :root{
     --bg-c: #222;
     --bg1-c: #333;
