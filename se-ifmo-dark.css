@@ -1,80 +1,108 @@
-@namespace url(http://www.w3.org/1999/xhtml);
+/*	se.ifmo.ru dark theme
+By Dima Glushkov (https://github.com/allacee)
+(There is another .css file for 'System-software' page or it's about to be done)*/
+:root{
+    --bg-c: #222;
+    --bg1-c: #333;
+    --bg2-c: #444;
+    --text-c: #b7b7b7;
+    --h2-c: #ff7373;
+    --h3-c: #ff7373;
+    --link-c: #3585ff;
+    --code-c: white;
+    --code2-c: #6efff8;
+    --code-bg-c: #555555;
+    --code2-bg-c: #d9d9d9;
+    --portlet-msg-error-c: #571212;
+    --portlet-msg-info-c: #1b283c;
+    --portlet-msg-success-c: #26442f;
+    --portlet-msg-error-text-c: #f4d0d0;
+    --portlet-msg-info-text-c: #bad5ff;
+    --portlet-msg-success-text-c: #e6fdec;
 
-span{
-    color: #EEE !important;
 }
 
-nav{
-        background: #333 !important;
+body{
+    background: var(--bg-c) !important;
+    color: var(--text-c) !important;
 }
 
-td{
-    color:white !important;
-    border-top: #222 !important;
-    border-bottom: #555 !important;
-
+h2{
+    color: var(--h2-c) !important;
 }
 
-
-tbody a{
-    color: #38dbff !important;
+h3{
+    color: var(--h3-c) !important;
 }
 
-tbody font{
-    color: #ff7373 !important;
+a{
+    color: var(--link-c) !important;
 }
 
-.columns-1{
-    background: #222 !important;
-}
-
-#breadcrumbs{
-        border-radius: 0
-
+#banner a, #breadcrumbs a{
+    color: white !important;
 }
 
 .breadcrumb{
-    background: #333 !important;
+    background: var(--bg2-c) !important;
 }
 
-.breadcrumb a{
-    color: #fff !important;
+.portlet-borderless-container .portlet-msg-error{
+    border: var(--portlet-msg-error-c) !important;
+    background-color: var(--portlet-msg-error-c);
+    color: var(--portlet-msg-error-text-c);
 }
 
-#heading{
-    background: #333 !important;
+.portlet-borderless-container .portlet-msg-info{
+    border: var(--portlet-msg-info-c) !important;
+    background-color: var(--portlet-msg-info-c);
+    color: var(--portlet-msg-info-text-c);
 }
 
-.portlet-layout{
-    color: #fff !important;
+.portlet-borderless-container .alert, .portlet-borderless-container .portlet-msg-success {
+    border: var(--portlet-msg-success-c) !important;
+    background-color: var(--portlet-msg-success-c);
+    color: var(--portlet-msg-success-text-c);
 }
 
-input{
-    background: #CCC !important;
+.table-data tr td{
+    background: var(--bg-c) !important;
 }
 
-.portlet-layout h3{
-    color: #ff4747 !important;
+header, .site-title, #heading{
+    background: var(--bg1-c) !important;
 }
 
-.portlet-layout h2{
-    color: #0a82ff !important;
+.clearfix  a, .taglib-icon{
+    background: var(--bg-c) !important;
+    color: white !important;
 }
 
-.portlet-layout a{
-    color: #38dbff !important;
+pre, select, input, .quote{
+    border: var(--code-bg-c) !important;
+    color: var(--code-c) !important;
+    background: var(--code-bg-c) !important;
 }
 
-#banner{
-    background: #333 !important;
+code{
+    font-weight: bold !important;
+    border: var(--code2-bg-c) !important;
+    color: var(--code2-c) !important;
+    background: var(--code-bg-c) !important;
 }
 
-.site-title{
-    background: #333 !important;
+.journal-content-article span{
+    color: var(--text-c) !important;
 }
 
-.quote{
-    background: #555 !important;
-    color: #EEE  !important;
+tbody td{
+    border-top: 0px solid var(--bg-c) !important;
+    border-bottom: 1px solid var(--bg1-c) !important;
 }
+
+.portlet-content{
+    background: var(--bg-c) !important;
+    color: var(--text-c) !important;
+}
+
 
