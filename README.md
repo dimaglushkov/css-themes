@@ -8,7 +8,8 @@ ___NOTE: Seems like Stylish does not work correctly for the latest versions of F
 ## My own themes
 | Website | Theme |
 |---|---|
-| se.ifmo.ru | [se.ifmo dark](https://github.com/allacee/custom-css-themes/tree/master/se.ifmo) |
+| se.ifmo.ru | [se.ifmo dark theme](https://github.com/allacee/custom-css-themes/tree/master/se.ifmo) |
+| acm.timus.ru | [acm.timus dark theme](https://github.com/allacee/custom-css-themes/tree/master/acm.timus) |
 
 ## Themes
 | Website | Theme |
