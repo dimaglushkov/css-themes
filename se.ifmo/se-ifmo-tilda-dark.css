@@ -1,0 +1,24 @@
+/*	se.ifmo.ru dark theme
+By Dima Glushkov (https://github.com/allacee)
+url regex: .*se.ifmo.ru\/(?!~).*
+This css is aplied to se.ifmo.ru/~'something'
+*/
+:root{
+    --bg-c: #222;
+    --text-c: #b7b7b7;
+    --h3-c: #ff7373;
+    --link-c: #3585ff;
+}
+
+body{
+    background: var(--bg-c) !important;
+    color: var(--text-c) !important;
+}
+
+a{
+    color: var(--link-c) !important;
+}
+
+h3{
+    color: var(--h3-c) !important;
+}
