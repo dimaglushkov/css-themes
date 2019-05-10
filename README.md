@@ -5,6 +5,11 @@ First of all, you can simply install customization extension such as [Stylus ext
 
 ___NOTE: Seems like Stylish does not work correctly for the latest versions of Firefox___
 
+## My own themes
+| Website | Theme |
+|---|---|
+| se.ifmo.ru | [se.ifmo dark](https://github.com/allacee/custom-css-themes/tree/master/se.ifmo) |
+
 ## Themes
 | Website | Theme |
 |---|---|
