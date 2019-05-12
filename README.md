@@ -5,17 +5,17 @@ First of all, install customization extension, for example [__Stylus__](https://
 Then you can just go to [userstyles.org](https://userstyles.org/) and look for anything you want.
 #### Installation of my themes 
 As long as my themes is not published on [userstyles.org](https://userstyles.org/), you need to do a couple things to add this themes to your browser. 
-1. Open webpage, that you want to customize.
+1. Open webpage you want to customize.
 2. Click on the extension button on your browser and choose 'create style for this page' (or something like that) option.
-3. Open .css file with the theme you want to add.
+3. Open .css file with the theme.
 4. Go back to extension page and insert .css file content.
 5. If there is a few .css files, then in the beginning of the file you can find regex which describes url, to which this exact .css applies. Otherwise most probably you can left url template as it is.
 6. Copy this regex and insert it to field under the code input zone and choose 'regular expression url' option.
-7. Click on 'add section' and repeat 4-7 for all .css files you want.
+7. Click on 'add section' and repeat 4-7 for all .css files.
 8. Congratulations, most probably you did it. You can find more instructions, screenshots and info in the themes directories.
 
 
-## My o1wn themes
+## My own themes
 | Website | Theme |
 |---|---|
 | se.ifmo.ru | [se.ifmo dark theme](https://github.com/allacee/custom-css-themes/tree/master/se.ifmo) |
