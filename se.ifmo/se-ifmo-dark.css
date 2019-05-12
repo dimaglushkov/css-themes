@@ -1,6 +1,6 @@
 /*	se.ifmo.ru dark theme
 By Dima Glushkov (https://github.com/allacee)
-url regex: .*se.ifmo.ru\/(?!~).*
+url regex: https*://se.ifmo.ru\/(?!~).*
 */
 
 :root{
