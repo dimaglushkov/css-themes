@@ -1,5 +1,5 @@
 # Custom css themes
-Here you can find a list of custom css themes that I used (and almost all of them are dark)
+Here you can find a list of custom css themes that I use
 ## Installation
 First of all, install customization extension, for example [__Stylus__](https://github.com/openstyles/stylus) ([for Firefox](https://addons.mozilla.org/ru/firefox/addon/styl-us/), [for Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne), [for Opera](https://addons.opera.com/ru/extensions/details/stylus/))
 Then you can just go to [userstyles.org](https://userstyles.org/) and look for anything you want.
