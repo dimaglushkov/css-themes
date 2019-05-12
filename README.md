@@ -1,9 +1,7 @@
 # Custom css themes
 Here you can find a list of custom css themes that I used (and almost all of them are dark)
 ## Installation
-First of all, you can simply install customization extension such as [Stylus extension](https://addons.mozilla.org/ru/firefox/addon/styl-us/) ([source code](https://github.com/openstyles/stylus)), [Stylish extension](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=ru)
-
-___NOTE: Seems like Stylish does not work correctly for the latest versions of Firefox___
+First of all, install customization extension, for example [__Stylus__](https://github.com/openstyles/stylus) ([for Firefox](https://addons.mozilla.org/ru/firefox/addon/styl-us/), [for Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne), [for Opera](https://addons.opera.com/ru/extensions/details/stylus/))
 
 ## My own themes
 | Website | Theme |
